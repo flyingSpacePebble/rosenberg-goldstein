@@ -33,7 +33,7 @@
       rgba(34, 25, 0, 0.25),
       rgba(34, 25, 0, 0.25)
     ),
-    url("/img/hero-img-sqshed.jpg"); */
+    url("img/hero-img-sqshed.jpg"); */
 
   background-color: #004247;
   background-size: cover;
@@ -82,7 +82,7 @@
 
 .accolades-container {
   /* background-image: linear-gradient(#003b4084, #003b400d),
-    url("/img/cta-img-sqshed.jpg"); */
+    url("img/cta-img-sqshed.jpg"); */
   background-image: linear-gradient(to bottom, #f2f2f2ee, #dbdbdbea),
     url("img/accolades-img-sqshed.jpg");
   background-size: cover;
@@ -99,7 +99,7 @@
       rgba(211, 211, 211, 0.83),
       rgba(196, 196, 196, 0.705)
     ),
-    url("/img/giammarco-boscaro-zeH-ljawHtg-unsplash.jpg");
+    url("img/giammarco-boscaro-zeH-ljawHtg-unsplash.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
@@ -108,7 +108,7 @@
 
 .cta-container {
   background-image: linear-gradient(to bottom, #000d0eb3, #000d0e),
-    url("/img/cta-sqed.jpg");
+    url("img/cta-sqed.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
